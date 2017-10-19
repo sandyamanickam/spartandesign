@@ -2,8 +2,8 @@
 This is a website made by group 6 contributing for class use in SE131. Spartan Design is a web service built with Ruby on Rails in HTML and Javascript.
 
 # Features
-* Designer recognition and support \n
-* Community involvement with school clothing \n
+* Designer recognition and support
+* Community involvement with school clothing
 * Accessible user interfaces
 
 # Pre-Requisites
